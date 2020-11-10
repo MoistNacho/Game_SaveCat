@@ -12,6 +12,7 @@ const unitGround = document.querySelector('.unitGround');
 const gameover = document.querySelector('.gameover');
 const win = document.querySelector('.win');
 
+// 개체수 조절
 const CAT_COUNT = 10;
 const GHOST_COUNT = 20;
 
